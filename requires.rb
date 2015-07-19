@@ -1,0 +1,7 @@
+require "./envio_mensaje.rb"
+require "./objeto.rb"
+require "./virtual_table.rb"
+require "./metodo.rb"
+require "./self.rb"
+require "./devolver_arg.rb"
+require "./contexto.rb"
