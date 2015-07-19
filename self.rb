@@ -4,6 +4,6 @@ class Self
   end
 
   def execute contexto
-    contexto[:self]
+    contexto[:esto]
   end
 end
