@@ -5,7 +5,7 @@ class Metodo
     @statements = []
   end
 
-  def addStatement statement
+  def add_statement statement
     @statements << statement
   end
 

@@ -8,7 +8,7 @@ class VirtualTable
     @dictonary[key]
   end
 
-  def addMetodo nombre, mensaje
+  def add_metodo nombre, mensaje
     @dictonary[nombre] = mensaje
   end
 end
